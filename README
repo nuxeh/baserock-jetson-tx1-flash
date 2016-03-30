@@ -1,0 +1,4 @@
+This is a simple script to assist in flashing a Baserock operating system
+image onto a Jetson TX1 development board (ARMv8l64), using proprietary NVidia
+flashing tools, which currently appear to be the only method of flashing the
+board.
